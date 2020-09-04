@@ -17,9 +17,9 @@ public class QAcodingExercise {
     public static void main(String[] args) {
 
         // TODO To check and see print outs program on console, pls remove '//' commends for line 27,28 and 29
-        System.out.println("Words that appear in more than one list = " + wordsAppearMoreThanOne(TestData.basicData()));
-        System.out.println("The total number of unique words across all lists = " + uniqueWordsTotalNumber(TestData.basicData()));
-        System.out.println("Top five frequent words in the all lists = " + topFiveFrequentWords(TestData.basicData()));
+//        System.out.println("Words that appear in more than one list = " + wordsAppearMoreThanOne(TestData.basicData()));
+//        System.out.println("The total number of unique words across all lists = " + uniqueWordsTotalNumber(TestData.basicData()));
+//        System.out.println("Top five frequent words in the all lists = " + topFiveFrequentWords(TestData.basicData()));
     }
 
 
