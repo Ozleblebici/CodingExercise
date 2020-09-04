@@ -3,6 +3,7 @@
 ### Codes and Tests Prepared by:
 **Talha OZLEBLEBICI**
 *QA Test Automation Engineer / Industrial Engineer*
+
 talha43gs@gmail.com
 
 https://www.linkedin.com/in/talha-ozleblebici-1b7660189/
