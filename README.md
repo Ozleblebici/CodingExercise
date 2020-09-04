@@ -4,8 +4,7 @@
 **Talha OZLEBLEBICI**
 *QA Test Automation Engineer / Industrial Engineer*
 talha43gs@gmail.com
-[My Linkedin Link][id/name]
-[id/name]: https://www.linkedin.com/in/talha-ozleblebici-1b7660189/
+https://www.linkedin.com/in/talha-ozleblebici-1b7660189/
 
 ------------
 ### Questions:
