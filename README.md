@@ -1,4 +1,4 @@
-# Automation Tester-QA Coding Exercise
+# Automation Tester-QA Coding Exercise / Instructions
 
 ### Codes and Tests Prepared by:
 **Talha OZLEBLEBICI**
@@ -9,6 +9,28 @@ talha43gs@gmail.com
 https://www.linkedin.com/in/talha-ozleblebici-1b7660189/
 
 ------------
+
+**- Build Tool:** Maven
+
+**- Test Framework:** Junit Jupiter 5 
+
+**-Code Location:** `src -> main > java > QAcodingExercise.java`
+
+**-Test Data Location:** `src -> test > java > TestData.java`
+
+------------
+
+### System Requirements: 
+- Java 8+ SDK
+
+------------
+
+### Test RUN:
+
+Go `src -> test > java > QAcodingExerciseTest.java` and RUN
+
+------------
+
 ### Questions:
 **a.** Write a program in python or java which accepts a single list as a parameter. This list consists of any number of lists (1..n), and you can assume each list only contains words (e..g. [‘apple’, ‘mango’, ‘cherry’…]). The program should print out the following:
    - words that appear in more than one list
